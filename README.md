@@ -11,7 +11,11 @@
 </div>
 
 ## About Me:
-🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science 🚀<br><br>🌱 I’m currently learning more about Backend Development .<br>👯 I’m looking to collaborate on projects that might benefit humanity.<br>💬 Ask me anything about the development, I'll make sure to learn from it.<br>📫 How to reach me: check the social links below.
+- 🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science.<br>
+- 🌱 I’m currently learning more about Backend Development.<br>
+- 👯 I’m looking to collaborate on projects that might benefit humanity.<br>
+- 💬 Ask me anything about the development, I'll make sure to learn from it.<br>
+- 📫 How to reach me: check the social links below.
 
 ---
 
@@ -54,7 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmerAhmed996&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </details>
----
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
