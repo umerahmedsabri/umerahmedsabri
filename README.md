@@ -53,9 +53,9 @@
 <details>
 <summary><big><strong>📈 Stats</big></summary>
 
-![](https://github-readme-stats.vercel.app/api?username=UmerAhmed996&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UmerAhmed996&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmerAhmed996&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=umerahmedsabri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=umerahmedsabri&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umerahmedsabri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </details>
 
