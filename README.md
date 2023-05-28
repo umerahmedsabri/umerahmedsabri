@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=umerahmedsabri.umerahmedsabri" /><br />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=umerahmedsabri.umerahmedsabri" /><br/>
 
 <h2 align="center"> Salam,<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Umer Ahmed</h2>
 
@@ -62,5 +62,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
