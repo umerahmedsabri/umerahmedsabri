@@ -13,7 +13,6 @@
 </div>
 
 ## About Me:
-- 🔭 I’m currently studying at the University of Central Punjab with a bachelors program on Computer Science.<br>
 - 🌱 I’m currently learning more about Backend Development.<br>
 - 👯 I’m looking to collaborate on projects that might benefit humanity.<br>
 - 💬 Ask me anything about the development, I'll make sure to learn from it.<br>
